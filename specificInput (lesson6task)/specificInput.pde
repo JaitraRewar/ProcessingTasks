@@ -1,5 +1,5 @@
 // Name - Jaitra Rewar
-// Date - 6th October, 2024
+// Date - 6th October 2024
 // Purpose - Practicing the key commands and conditional statements using,
 //           keys 'r', 'g', 'b', 'Enter', '+', '-' all doing something, 
 //           as well as when clicked the mouse
